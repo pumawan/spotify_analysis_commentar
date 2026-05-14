@@ -1,5 +1,5 @@
 # 📌 Overview
-This repository contains a Python-based data science project dedicated to analyzing user comments and feedback regarding the Spotify application. By leveraging Natural Language Processing (NLP) and Machine Learning, the project extracts valuable insights, trends, and sentiment patterns from user reviews to understand user satisfaction and feature demands.
+This repository contains a Python-based data science project dedicated to analyzing user comments and feedback about the Spotify app. Leveraging Natural Language Processing (NLP) and Machine Learning, the project extracts valuable insights from user reviews to understand user satisfaction (positive or negative).
 
 # 📊 Key Features
 1. Data Manipulation & Cleaning: Utilizing Pandas to preprocess text data, handle missing values, and structure raw commentary for analysis.
